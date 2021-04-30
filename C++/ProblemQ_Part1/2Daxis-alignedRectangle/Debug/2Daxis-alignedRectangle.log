@@ -1,0 +1,8 @@
+﻿  Rectangle.cpp
+  RectangleConstructor.cpp
+C:\Users\auj08\OneDrive\Necessary files\Job Hunting\2. Interview\Accessments\Smoking Gun Interactive (Programmer)\ProblemQ_Part1\2Daxis-alignedRectangle\RectangleConstructor.cpp(35,36): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\auj08\OneDrive\Necessary files\Job Hunting\2. Interview\Accessments\Smoking Gun Interactive (Programmer)\ProblemQ_Part1\2Daxis-alignedRectangle\RectangleConstructor.cpp(39,36): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\auj08\OneDrive\Necessary files\Job Hunting\2. Interview\Accessments\Smoking Gun Interactive (Programmer)\ProblemQ_Part1\2Daxis-alignedRectangle\RectangleConstructor.cpp(45,27): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\auj08\OneDrive\Necessary files\Job Hunting\2. Interview\Accessments\Smoking Gun Interactive (Programmer)\ProblemQ_Part1\2Daxis-alignedRectangle\RectangleConstructor.cpp(46,26): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Generating Code...
+  2Daxis-alignedRectangle.vcxproj -> C:\Users\auj08\OneDrive\Necessary files\Job Hunting\2. Interview\Accessments\Smoking Gun Interactive (Programmer)\ProblemQ_Part1\Debug\2Daxis-alignedRectangle.exe
